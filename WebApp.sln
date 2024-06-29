@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRManager.STS", "HRManager.STS\HRManager.STS.csproj", "{DE6EA108-C518-4512-BCA0-CD6A2A0223AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRManager.API", "HRManager.API\HRManager.API.csproj", "{EEBE8A01-B2F7-476E-929B-BC33F7D2ED5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE6EA108-C518-4512-BCA0-CD6A2A0223AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6EA108-C518-4512-BCA0-CD6A2A0223AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6EA108-C518-4512-BCA0-CD6A2A0223AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6EA108-C518-4512-BCA0-CD6A2A0223AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBE8A01-B2F7-476E-929B-BC33F7D2ED5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBE8A01-B2F7-476E-929B-BC33F7D2ED5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBE8A01-B2F7-476E-929B-BC33F7D2ED5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBE8A01-B2F7-476E-929B-BC33F7D2ED5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {434757C9-76FE-4461-B1C9-DBAE58F860A9}
+	EndGlobalSection
+EndGlobal
